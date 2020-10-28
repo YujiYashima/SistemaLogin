@@ -14,7 +14,7 @@
 </p>
 <br><br>
 
-<h2 id="Build with">:pencil2: Built with</h2>
+<h2 id="Build with">:pencil2: Build with</h2>
 
 This project was built with prototype technologies:
 
