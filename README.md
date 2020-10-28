@@ -7,14 +7,14 @@
 </h4>
 
 <p align="center">
-  <a href="#Built with">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Build with">Build with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Screen">ScreenShots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#access">Access</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br><br>
 
-<h2 id="Built with">:pencil2: Built with</h2>
+<h2 id="Build with">:pencil2: Built with</h2>
 
 This project was built with prototype technologies:
 
